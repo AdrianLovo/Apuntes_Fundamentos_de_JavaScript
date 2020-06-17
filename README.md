@@ -35,5 +35,5 @@ Archivos base de codigo JavaScript.
 | 33 | [Manejando el orden y el Asincronismo en JavaScript](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/33-Callbacks.js) |
 | 34 | [Promesas (Promises)](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/34-Promesas.js) |
 | 35 | [Promesas Encadenadas](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/35-Promesas%20Encadenadas.js) |
-
-
+| 36 | [Multiples Promesas Encadenadas](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/36-MultiplesPromesasEncadenadas.js) |
+| 37 | [Async-await](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/37-AsyncAwait.js) |
