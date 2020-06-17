@@ -34,6 +34,6 @@ Archivos base de codigo JavaScript.
 | 32 | [Multiples request (Callback)](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/32-Callbacks.js) |
 | 33 | [Manejando el orden y el Asincronismo en JavaScript](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/33-Callbacks.js) |
 | 34 | [Promesas (Promises)](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/34-Promesas.js) |
-| 35 | [Promesas Encadenadas](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/35-Promesas Encadenadas.js) |
+| 35 | [Promesas Encadenadas](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/35-Promesas%20Encadenadas.js) |
 
 
