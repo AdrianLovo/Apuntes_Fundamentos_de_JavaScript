@@ -40,4 +40,8 @@ Archivos base de codigo JavaScript.
 | 46 | [Var, let y const](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/46-Var,LetYConst_Diferencias.js) |
 | 47 | [Fechas en JavaScript (Date)](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/47-FechasEnJavaScript.js) |
 | 48 | [Recursividad](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/48-Recursividad.js) |
+| 49 | [Memorizacion: Ahorrando Computo](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/49-MemorizacionAhorrandoComputo.js) |
+| 50 | [Closure](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/50-Closure.js) |
+| 51 | [Estructuras De Datos Inmutables](https://github.com/AdrianLovo/Apuntes_Fundamentos_de_JavaScript/blob/master/51-EstructurasDeDatosInmutables.js) |
+
 
